@@ -1,2 +1,2 @@
 # BankManagementSystem
-Register SUer, Login, Update Account and Apply Loan Modules
+Register User, Login, Update Account and Apply Loan Modules
